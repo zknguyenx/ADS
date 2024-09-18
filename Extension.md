@@ -1,6 +1,7 @@
 # Extension for ADS
 
 Lưu ý: proxy mua bên PIA-PROXY
+
 Phải đổi proxy theo thành phố, quốc gia gần nhất với VIA trước khi Login
 
 ## 1. Change Proxy
