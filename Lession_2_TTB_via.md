@@ -1,4 +1,4 @@
-# Change Via
+# Disable Notification
 Compiled based on personal experience as well as compiled from sources on the internet
 
 Copyright: NGUYEN MINH HIEU
