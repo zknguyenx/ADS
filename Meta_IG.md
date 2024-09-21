@@ -1,4 +1,4 @@
-# Toturial
+# Tutorial
 
 ## 1. Login Meta with instagram
 - Link: https://meta.com/
